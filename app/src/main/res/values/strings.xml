@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movieflix</string>
+    <string-array name="filter_categories">
+        <item>Movies This Week</item>
+        <item>Popular Movies</item>
+    </string-array>
+
+
+</resources>
